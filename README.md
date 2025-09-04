@@ -4,7 +4,7 @@
 
 In the summer of 2024 I started studying Data Analytics with Career Foundry part-time, while I juggled a full-time job as a Registered Veterinary Technician.
 
-I have 10 years experience in the veterinery industry. With that knowledge, I've honed skills such as: teamwork, problem-solving, communicating with a multitude of personalities, working under pressure, keeping accurate records, continuing my education and never becoming complacent. In my day-to-day I'm Pharmacist, Anesthesiologist, Phlebotomist, Radiology Tech., Lab Tech., Educator, Receptionist and so much more. I'm proud to provide my expertise to those who love and care for their pets like family.
+I have 10 years experience in the veterinary industry. With that knowledge, I've honed skills such as: teamwork, problem-solving, communicating with a multitude of personalities, working under pressure, keeping accurate records, continuing my education and never becoming complacent. In my day-to-day I'm a Pharmacist, Anesthesiologist, Phlebotomist, Radiology Tech., Lab Tech., Educator, Receptionist and so much more. I'm proud to provide my expertise to those who love and care for their pets like family.
 
 Recently, I've completed the Data Analytics program with Career Foundry and have found joy in exploring data, programing languages and visual-aid tools. I've developed hands-on skills with Microsoft Excel, PostgresSQL, DBvisualizer for visualizing schemas, Anaconda Navigator's Python and Tableau. I've completed several projects with each of these different tools. I have even had some experience in Supervised and Unsupervised Machine Learning.
 
