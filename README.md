@@ -8,7 +8,7 @@ I have 10 years experience in the veterinary industry. With that knowledge, I've
 
 Recently, I've completed the Data Analytics program with Career Foundry and have found joy in exploring data, programing languages and visual-aid tools. I've developed hands-on skills with Microsoft Excel, PostgresSQL, DBvisualizer for visualizing schemas, Anaconda Navigator's Python and Tableau. I've completed several projects with each of these different tools. I have even had some experience in Supervised and Unsupervised Machine Learning.
 
-Being able to combine my passion for animals with the pursuit of a new career is engaging and thrilling. I am dedicated in my ability to bring precise and accurate information that drive decisions in a meaningful direction. I'm organized and strive for uniformity that promotes success and limits mistakes. However, mistakes are inevitable and should be viewed as opportunities to learn and grow from. Outside of my adoration for animals, I am a proud supporter of law enforcement and an avid reader and gamer.
+Being able to combine my passion for animals with the pursuit of a new career is engaging and thrilling. I am dedicated in my ability to bring precise and accurate information that drive decisions in a meaningful direction. I'm organized and strive for uniformity that promotes success and limits mistakes. However, mistakes are inevitable and should be viewed as opportunities to learn and grow from. Outside of my adoration for animals, I'm an avid reader and gamer.
 
 **LINKS:**
 
